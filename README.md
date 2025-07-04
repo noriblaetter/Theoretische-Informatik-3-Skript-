@@ -8,7 +8,7 @@ Dieses Repository enthält Mitschriften, Zusammenfassungen und Übungsaufgaben z
 
 ## Themenübersicht
 
-- Ich bin lost, aber der Prof war immens lost, daher ist das skript noch loster und ich kann keine vollständige Korrektheit versichern, war aber korrekt genug um zu bestehen.
+- Ich bin lost, aber der Prof war immens lost, daher ist das Skript noch loster und ich kann keine vollständige Korrektheit versichern, war aber korrekt genug um zu bestehen.
 
 ## Nutzung
 
