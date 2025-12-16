@@ -1,28 +1,59 @@
 # Theoretische Informatik 3 – Skript
 
-Willkommen zum Skript für das Modul **Theoretische Informatik 3**.
+Willkommen zum LaTeX-Skript für das Modul **Theoretische Informatik 3**.
 
-## Inhalt
+## 📚 Inhalt
 
-Dieses Repository enthält Mitschriften, Zusammenfassungen und Übungsaufgaben zum Kurs Theoretische Informatik 3.
+Dieses Repository enthält ein umfassendes LaTeX-Skript mit Mitschriften, Zusammenfassungen und Übungsaufgaben zum Kurs Theoretische Informatik 3.
 
-## Themenübersicht
+## ⚠️ Haftungsausschluss
 
-- Ich bin lost, aber der Prof war immens lost, daher ist das Skript noch loster und ich kann keine vollständige Korrektheit versichern, war aber korrekt genug um zu bestehen.
+Dieses Skript wurde nach bestem Wissen und Gewissen erstellt, allerdings kann ich keine vollständige Korrektheit garantieren. Die Inhalte waren ausreichend, um das Modul zu bestehen, sollten aber kritisch hinterfragt und mit weiteren Quellen abgeglichen werden. Das ist das losteste Skript okay, meine anderen Skripte sind besser.
 
-## Nutzung
+## 🚀 Nutzung mit Overleaf (Empfohlen)
+
+**Overleaf** ist euer go to. Bei der Struktur wollt ihr euch wirklich nichts anderes antun. Auf OVerleav einfach straigtht importieren und das Leben ist schön!
+
+### Option 1: Direkt in Overleaf importieren
+
+1. Öffne [Overleaf](https://www.overleaf.com)
+2. Erstelle ein neues Projekt: "New Project" → "Import from GitHub"
+3. Verbinde dein GitHub-Konto und wähle dieses Repository aus
+4. Fertig! Du kannst jetzt direkt im Browser arbeiten
+
+### Option 2: ZIP-Upload zu Overleaf
+
+1. Lade das Repository als ZIP herunter
+2. Gehe zu [Overleaf](https://www.overleaf.com)
+3. Klicke auf "New Project" → "Upload Project"
+4. Wähle die ZIP-Datei aus
+5. Beginne sofort mit dem Bearbeiten!
+
+### Vorteile von Overleaf
+
+- ✅ Keine LaTeX-Installation notwendig
+- ✅ Automatische Kompilierung und Live-Vorschau
+- ✅ Kollaboratives Arbeiten möglich
+- ✅ Zugriff von überall
+- ✅ Versionskontrolle integriert
+
+## 💻 Lokale Nutzung (Alternative)
+
+Falls du lieber lokal arbeiten möchtest (nein willst du wirklich nicht bei diesem Projekt):
 
 1. Klone das Repository:
     ```bash
-    https://github.com/noriblaetter/Theoretische-Informatik-3-Skript-.git
+    git clone https://github.com/noriblaetter/Theoretische-Informatik-3-Skript-.git
     ```
-2. Öffne die gewünschten Kapitel im Markdown-Format.
-3. Ergänze eigene Notizen oder Lösungen.
+2. Installiere eine LaTeX-Distribution (z.B. [MiKTeX](https://miktex.org/) oder [TeX Live](https://www.tug.org/texlive/))
+3. Kompiliere `main.tex` mit deinem bevorzugten LaTeX-Editor (z.B. TeXstudio, VS Code mit LaTeX Workshop).
+4. Weine
 
-## Mitwirken
+## 🤝 Mitwirken
 
-Beiträge und Korrekturen sind willkommen! Bitte erstelle einen Pull Request oder öffne ein Issue.
+Beiträge und Korrekturen sind herzlich willkommen! (iwo ist noch ein Fehler bei schwacher np härte (war zu faul zum fixen okay))
 
-## Lizenz
-
-Dieses Projekt steht unter der MIT-Lizenz.
+- Finde einen Fehler? Erstelle ein Issue!
+- Möchtest du etwas verbessern? Erstelle einen Pull Request!
+- Hast du Fragen? Öffne eine Discussion!
+- Friede Freude Eierkuchen
