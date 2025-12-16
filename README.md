@@ -12,7 +12,7 @@ Dieses Skript wurde nach bestem Wissen und Gewissen erstellt, allerdings kann ic
 
 ## 🚀 Nutzung mit Overleaf (Empfohlen)
 
-**Overleaf** ist euer go to. Bei der Struktur wollt ihr euch wirklich nichts anderes antun. Auf OVerleav einfach straigtht importieren und das Leben ist schön!
+**Overleaf** ist euer go to. Bei der Struktur wollt ihr euch wirklich nichts anderes antun. Auf Overleaf einfach straigtht importieren und das Leben ist schön!
 
 ### Option 1: Direkt in Overleaf importieren
 
