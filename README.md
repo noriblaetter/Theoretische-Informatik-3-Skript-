@@ -14,7 +14,7 @@ Dieses Repository enthält Mitschriften, Zusammenfassungen und Übungsaufgaben z
 
 1. Klone das Repository:
     ```bash
-    git clone <repository-url>
+    https://github.com/noriblaetter/Theoretische-Informatik-3-Skript-.git
     ```
 2. Öffne die gewünschten Kapitel im Markdown-Format.
 3. Ergänze eigene Notizen oder Lösungen.
