@@ -6,6 +6,30 @@ Willkommen zum LaTeX-Skript für das Modul **Theoretische Informatik 3**.
 
 Dieses Repository enthält ein umfassendes LaTeX-Skript mit Mitschriften, Zusammenfassungen und Übungsaufgaben zum Kurs Theoretische Informatik 3.
 
+## 📁 Projektstruktur
+
+```
+├── main.tex                                    # Hauptdokument
+├── main.pdf                                    # Kompiliertes PDF
+├── Theoretische-Informatik-3-Skript.pdf       # Alternative PDF-Kopie
+├── images/                                     # Alle Abbildungen
+│   ├── quicksort-recursion-tree.png           # QuickSort Rekursionsbaum
+│   ├── recursive-tree-median.png              # Rekursiver Baum mit Median
+│   ├── hash-table-example.png                 # Hashtabelle Beispiel
+│   ├── perfect-hashing-two-level.png          # Zweistufiges perfektes Hashing
+│   ├── graph-isomorphism-example.png          # Graphenisomorphie Beispiel
+│   ├── skip-list-structure.png                # Skiplisten Struktur
+│   ├── game-tree-evaluation.png               # Spielbaum Evaluation
+│   ├── proof-min-node.png                     # Beweis Min-Knoten
+│   ├── tree-split-amortized.png               # Baum-Split amortisierte Analyse
+│   ├── tree-insertion-path.png                # Baum Einfügepfad
+│   ├── linear-programming-geometric.png       # LP geometrische Instanz
+│   ├── lp-constraints-pruning.png             # LP Constraints Pruning
+│   ├── lp-oracle-vertical.png                 # LP Orakel vertikal
+│   └── lp-oracle-implementation.png           # LP Orakel Implementierung
+└── .gitignore                                  # Git-Ignore Datei
+```
+
 ## ⚠️ Haftungsausschluss
 
 Dieses Skript wurde nach bestem Wissen und Gewissen erstellt, allerdings kann ich keine vollständige Korrektheit garantieren. Die Inhalte waren ausreichend, um das Modul zu bestehen, sollten aber kritisch hinterfragt und mit weiteren Quellen abgeglichen werden. Das ist das losteste Skript okay, meine anderen Skripte sind besser.
